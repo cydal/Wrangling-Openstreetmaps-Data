@@ -1,0 +1,4 @@
+Link to map position
+
+https://s3.amazonaws.com/metro-extracts.mapzen.com/hamilton_canada.osm.bz2
+
